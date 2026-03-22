@@ -1,6 +1,7 @@
 {
   "shopee": [],
   "shein": [
+    null,
     {
       "name": "Óculos com Armação Luxuosa",
       "price": "R$34,61",
@@ -57,5 +58,15 @@
     }
   ],
   "netshoes": [],
-  "destaques": []
+  "destaques": [
+    {
+      "name": "a",
+      "price": "1",
+      "old": "1",
+      "tag": "sale",
+      "link": null,
+      "image": null,
+      "emoji": "🛍️"
+    }
+  ]
 }
