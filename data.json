@@ -1,5 +1,15 @@
 {
-  "shopee": [],
+  "shopee": [
+    {
+      "name": "brusa",
+      "price": "1",
+      "old": "1",
+      "tag": "sale",
+      "link": null,
+      "image": null,
+      "emoji": "🛍️"
+    }
+  ],
   "shein": [
     {
       "name": "Óculos com Armação Luxuosa",
